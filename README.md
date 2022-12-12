@@ -22,4 +22,8 @@ encoder [input_file_name] [output_file_name] [keynumber(0~255):optional]
 ```
 - fast, but need compile.
 
+# License
 
+- MIT.
+  - use at your own risk.
+  - no guarantee.
